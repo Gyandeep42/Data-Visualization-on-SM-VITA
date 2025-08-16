@@ -46,7 +46,7 @@ This dashboard helps academic institutions, training centers, and students track
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](./assets/dashboard.png)  
+![Dashboard Preview](Data-Visualization-on-SM-VITA.PNG)  
 
 ---
 
