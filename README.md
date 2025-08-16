@@ -1,8 +1,3 @@
-# -----------------------------
-# Generate README.md for SM-VITA Dashboard
-# -----------------------------
-
-readme_content = """
 # 📊 SM-VITA Student Placement Dashboard
 
 ## 📌 Project Overview
@@ -52,7 +47,6 @@ This dashboard helps academic institutions, training centers, and students track
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](./assets/dashboard.png)  
-*(Add your screenshot in the `assets/` folder of the repo with name `dashboard.png`)*
 
 ---
 
